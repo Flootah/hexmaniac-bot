@@ -1,0 +1,26 @@
+okay, lets make this organized...
+Create Hex Maniac Bot
+    -Have an envionment for Hex to run in
+        -bot can run in VPS
+        -bot updates (?)
+    -Build Hex
+        +Get a bot running in python from Windows
+            +install python
+            +figure out runtime envionment for python
+        -figure out this discord.py api
+            -basic commands
+                -repeat back
+                -roll dice
+            -int command
+                -ping/pong
+            -advanced commands
+                -get random image from giphy or something
+                -show content from site based on search (ie MAL or urbandictionary)
+    +Get a bot running  
+        +able to run from vscode
+        +able to run commands from example basic_bot.py
+        
+
+
+
+
