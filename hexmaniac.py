@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import random
 
-description = '''a small bot that can perform a few simple tasks for now. 
+description = '''a humble bot that can perform a few simple tasks for now. 
 NOT for bully!'''
 
 client = discord.Client()
